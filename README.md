@@ -2,12 +2,17 @@
 
 # InkDesk Companion
 
-A calm, always-on desk display using a 7.5" e-paper/ink screen and ESP32-S3.
+InkDesk is a calm, always-on desk companion using a 7.5" e-paper display.
+It shows useful information at a glance while consuming very little power.
+
+The goal is to create a minimal, distraction-free device that displays
+important daily information such as time, weather, and environment data.
 
 ## stuff it haves/does
 
 - To-do list display
 - Weather information
+- Time display
 - Room temperature and humidity
 - Time awareness visualization
 - Rotary encoder navigation
