@@ -23,3 +23,13 @@ important daily information such as time, weather, and environment data.
 - 7.5" e-ink display (SPI)
 - BME280 environmental sensor
 - EC11 rotary encoder
+
+## wiring
+
+![wiring](images/inkdesk_wiring.png)
+
+## render 
+
+![render](images/inkdesk_render.png)
+
+## bill of materials
