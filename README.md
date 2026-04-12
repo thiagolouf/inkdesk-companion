@@ -8,6 +8,9 @@ It shows useful information at a glance while consuming very little power.
 The goal is to create a minimal, distraction-free device that displays
 important daily information such as time, weather, and environment data.
 
+#### and why i created it?
+im neurodivergent and yea this could really help me on my day to day tbh um
+
 ## stuff it haves/does
 
 - To-do list display
